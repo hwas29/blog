@@ -1,4 +1,0 @@
-baseURL = 'https://hwas29.github.io/blog/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = "PaperMod"
